@@ -1,0 +1,6 @@
+# K8s Agent 依赖包
+click>=8.0.0
+python-dotenv>=0.19.0
+requests>=2.26.0
+# 在完整版本中需要添加以下依赖
+# openai>=0.27.0
